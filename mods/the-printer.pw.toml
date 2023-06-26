@@ -1,0 +1,13 @@
+name = "The Printer"
+filename = "theprinter-1.4.1+1.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/u8LBQOAl/versions/20fzAyGb/theprinter-1.4.1%2B1.19.jar"
+hash-format = "sha1"
+hash = "85d9a9c0abed66bd3f2e5d95d106fc4f0b3d5825"
+
+[update]
+[update.modrinth]
+mod-id = "u8LBQOAl"
+version = "20fzAyGb"

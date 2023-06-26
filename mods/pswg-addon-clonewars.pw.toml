@@ -1,0 +1,13 @@
+name = "PSWG Addon: Clone Wars"
+filename = "pswg-addon-clonewars-0.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "efc00f96e9e43ef4795ec5cab361931426ec8ee2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4068248
+project-id = 646247
